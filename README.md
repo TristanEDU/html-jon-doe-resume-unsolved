@@ -45,13 +45,13 @@ This assignment should prove that a student is able to:
 
 ## Standard requirements
 
-- [ ] Fork the project to your github account
-- [ ] Clone the project to your computer
-- [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] Initialize playwright and install project packages
-  - [ ] Use `npm i` to install packages
-  - [ ] Use `npm run browser-install` to install the browser environment for testing (~131mb will be downloaded)
-  - [ ] (Windows users only) Use `npm run deps-install` to install playwright additional dependencies (160mb will be downloaded)
+- [ x] Fork the project to your github account
+- [ x] Clone the project to your computer
+- [ ]x Open the project in VSCode with `code <cloned_repo_folder_name>`
+- [ x] Initialize playwright and install project packages
+  - [x ] Use `npm i` to install packages
+  - [ x] Use `npm run browser-install` to install the browser environment for testing (~131mb will be downloaded)
+  - [ x] (Windows users only) Use `npm run deps-install` to install playwright additional dependencies (160mb will be downloaded)
 - [ ] All the tasks of the "Specific requirements" section MUST be solved
 - [ ] All the tests MUST pass. Fix any errors before you submit (acceptance criteria).
   - [ ] Use `npm run test` to run all tests in the terminal
@@ -70,9 +70,9 @@ This assignment should prove that a student is able to:
 
 All the tasks in the requirements are related to the index.html file! Consider "Jon Doe" to be replaced with your real first and last name.
 
-- [ ] Create an html file with the name of "index" in the root of the project
-- [ ] Add HTML Boilerplate to the document
-- [ ] Set the document title to be "Jon Doe's resume".
+- [ x] Create an html file with the name of "index" in the root of the project
+- [ x] Add HTML Boilerplate to the document
+- [ x] Set the document title to be "Jon Doe's resume".
 - [ ] Set the page heading to be "Jon Doe"
 - [ ] Add a section heading with the content of "Talented Frontend developer" that represents the desired role.
 - [ ] Add an image with required and important attributes
